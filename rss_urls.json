@@ -1,0 +1,6 @@
+{
+  "IT": ["https://www.itworld.co.kr/rss/all.xml"],
+  "DEV": ["https://rss.hankyung.com/feed/it"],
+  "GAME": ["https://www.inven.co.kr/webzine/news/?rss=1"],
+  "DESIGN": ["https://www.designboom.com/feed/"]
+}

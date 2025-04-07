@@ -1,0 +1,7 @@
+discord.py
+feedparser
+python-dotenv
+sumy
+bs4
+requests
+
